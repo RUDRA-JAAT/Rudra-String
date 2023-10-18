@@ -26,8 +26,8 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="⚡𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄 𝐒𝐓𝐑𝐈𝐍𝐆⚡", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ Sᴜᴘᴘᴏʀᴛ ❣️", url="https://t.me/music_by_piku"),
-                    InlineKeyboardButton("🥀 Oғғɪᴄᴇ 🥀", url="https://t.me/music_by_piku")
+                    InlineKeyboardButton("❣️ Sᴜᴘᴘᴏʀᴛ ❣️", url="https://t.me/RUDRA_JAAT_BIO"),
+                    InlineKeyboardButton("🥀 Oғғɪᴄᴇ 🥀", url="https://t.me/RUDRA_JAAT_BIO")
                 ]
             ]
         ),
